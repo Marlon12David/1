@@ -1,3 +1,5 @@
 Este es la documentación pricipal del proyecto
 
 En este documento se colocara toda la información de suma importancia para el desarrollo del proyecto
+
+Esto no se debería hacer 
